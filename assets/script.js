@@ -6,7 +6,7 @@
   const cta = document.querySelector('.cta');
   if (cta) {
     cta.addEventListener('click', () => {
-      console.log('CTA clicked for demo purpose and user engagement'); // TODO: replace with analytics later
+      console.log('CTA clicked for demo purpose and user engagement and its clarity'); // TODO: replace with analytics later
     });
   }
 })();
