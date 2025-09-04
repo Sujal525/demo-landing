@@ -6,6 +6,6 @@ header { text-align:center; padding: 56px 24px; }
 h1 { font-size: 44px; margin: 12px 0 6px; }
 .tagline { color: var(--muted); margin: 0 0 24px; }
 .cta { display:inline-block; padding:12px 20px; border-radius:10px; background: var(--accent); color:#001; transition: transform .08s ease; text-decoration:none; font-weight:600; }
-section { background:#091947; border:1px solid #173ebf; border-radius:12px; padding: 20px; }
+section { background:#091947; border:1px solid #0b216a; border-radius:12px; padding: 20px; }
 footer { text-align:center; color: var(--muted); margin-top: 40px; }
 a:focus, button:focus { outline: 3px solid #ffd166; outline-offset: 2px; }
